@@ -1,24 +1,24 @@
-.item-details {
+.person-details {
   display: flex;
   flex-direction: row;
   padding: 1rem;
   border: 1px solid #444;
 }
 
-.item-details .item-image {
+.person-details .person-image {
   width: 30%;
   height: 30%;
   border-radius: 10px;
 }
 
-.item-details .list-group-item {
+.person-details .list-group-item {
   padding: .25rem;
 }
 
-.item-details .list-group-item .term{
+.person-details .list-group-item .term{
   margin-right: .5rem;
 }
 
-.item-details button {
+.person-details button {
   margin-top: 5px;
 }

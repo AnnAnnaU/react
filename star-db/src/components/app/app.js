@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
-import Header from '../header';
-import RandomPlanet from '../random-planet';
-import ErrorButton from '../error-button';
-import PeoplePage from '../people-page';
-import ErrorBoundry from "../error-boundry";
+import Header from '../header/header';
+import RandomPlanet from '../random-planet/random-planet';
+import ErrorButton from '../error-button/error-button';
+import PeoplePage from '../people-page/people-page';
+import ErrorBoundry from "../error-boundry/error-boundry";
 
 import './app.css';
 

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 
 import ItemList from '../item-list/item-list';
-import ItemDetails from '../item-details/item-details'
+import ItemDetails from '../person-details/person-details'
 import ErrorIndicator from '../error-indicator/error-indicator';
 import Row from '../row/row';
 
